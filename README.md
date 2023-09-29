@@ -10,11 +10,9 @@ images.
 
 ## Results
 
-### Rendered images
+### Rendered video
 
-<video width="640" height="480" controls>
-  <source src="assets/vrs-nerf-comp.mp4" type="video/mp4">
-</video>
+<video src='https://github.com/feixue94/vrs-nerf/blob/dev/assets/vrs-nerf-comp.mp4' width=640></video>
 
 ### Groundtruth and rendered images
 
