@@ -11,8 +11,7 @@ images.
 ## Results
 
 ### Rendered video
-
-<video src='https://github.com/feixue94/vrs-nerf/blob/dev/assets/vrs-nerf-comp.mp4' width=640></video>
+[![Video]()](assets/vrs-nerf-comp.mp4)
 
 ### Groundtruth and rendered images
 
