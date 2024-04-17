@@ -11,7 +11,7 @@ images.
 ## Results
 
 ### Rendered video
-[![Video]()](assets/vrs-nerf-comp.gif)
+![Video](assets/vrs-nerf-comp.gif)
 
 ### Groundtruth and rendered images
 
