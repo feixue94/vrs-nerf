@@ -11,6 +11,7 @@ images.
 ## Results
 
 ### Rendered video
+
 ![Video](assets/vrs-nerf-comp.gif)
 
 ### Groundtruth and rendered images
@@ -66,8 +67,8 @@ images.
  @article{xue2024vrs,
           author    = {Fei Xue and Ignas Budvytis and Daniel Olmeda Reino and Roberto Cipolla},
           title     = {VRS-NeRF: Visual Relocalization with Sparse Neural Radiance Field},
-          journal   = {arXiv preprint arXiv:2404.09271},
-          year      = {2024}
+          booktitle = {ECCVW},
+          year = {2024}
  }
 
 @inproceedings{sfd22023,
